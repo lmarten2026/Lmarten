@@ -1,0 +1,1 @@
+pythoni õppimis keskkond: Genepy
