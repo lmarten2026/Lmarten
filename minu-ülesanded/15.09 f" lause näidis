@@ -1,0 +1,3 @@
+#vanus = 98
+#lause = f"Jaak paak {vanus+3}, tal maitseb raske elutaak"
+#print(lause)

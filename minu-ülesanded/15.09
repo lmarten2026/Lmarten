@@ -1,0 +1,12 @@
+nimekiri = [ 1, 2, 3, 4]
+vanus = 5 #see on integer
+plisner_hind = 1.45 #see on floatväärtus
+print(type(nimekiri))
+print(type(vanus))
+jaak = "jaak" #string muutuja
+print(type(plisner_hind))
+
+print(type(jaak)) #kutstuakste välja käsklus print argument on type ja selle aargument omakorda jaak
+print(jaak)
+print(jaak, jaak)
+print(jaak + jaak)

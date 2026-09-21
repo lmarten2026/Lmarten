@@ -1,0 +1,19 @@
+def kontrollitav(vanuse_kontroll):
+    vanused = {14: "süüdiv",
+               16: "KOV",
+               18: ["RK", "EP", "ÕLU"],
+               21: "kasiino",
+               24: "A_kat",
+               40: "Üresident"
+               }
+    for vanus_nimekirjast in vanused.keys():
+        if vanuse_kontroll >= vanus_nimekirjast:
+            print(vanused[vanus_nimekirjast])
+            
+nimi = input("mis su nimi on?") #siin on pole arvväärtus
+sünniaasta = int(input("mis aastal sa sündisid?")) #siin on arvväärtus
+vanus = 2026 - sünniaasta
+#print("tere,", nimi ,"Sa oled umbes", vanus,"aastat vana")
+#print(f"Tere, {nimi}! sa oled umbes {vanus} aastat vana.")
+
+kontrollitav(vanus)
