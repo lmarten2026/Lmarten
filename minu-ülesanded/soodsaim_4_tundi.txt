@@ -1,0 +1,6 @@
+SOODSAIM 4 TUNNI PERIOOD
+Algus: 27.10.2026 01:15
+Lopp:  27.10.2026 05:15
+Masina võimsus: 1 kW
+Elektrikulu: 4 kWh
+Börsielektri maksumus: 0.0107 EUR
