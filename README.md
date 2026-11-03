@@ -1,1 +1,1 @@
-pythoni õppimis keskkond: Genepy
+pythoni õppimis keskkond: Genepy ja freecodecodecamp
